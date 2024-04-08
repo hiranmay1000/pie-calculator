@@ -15,6 +15,7 @@ PieCalculator is a user-friendly calculator app designed for quick and efficient
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/32a872df-a284-4a27-b4bb-2bde1c155df2" alt="Screenshot 3" width="150" />
 </div>
 
+![_3KenmaD](https://github.com/hiranmay1000/pie-calculator/assets/97354423/10631def-20cb-46ef-ba16-25559b4a051b)
 
 
 ## Key Features:
@@ -31,8 +32,5 @@ PieCalculator is ideal for students, professionals, bussineses and anyone lookin
 ## UI 
 
 
-
-
-https://github.com/hiranmay1000/pie-calculator/assets/97354423/2d1ea452-7ad4-4a88-906a-366a4a17e0f4
 
 
