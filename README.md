@@ -10,9 +10,9 @@ PieCalculator is a user-friendly calculator app designed for quick and efficient
 
 <!-- Side-by-Side Images -->
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/cdb139e2-9edb-463b-8a6c-814002b90a74" alt="Screenshot 1" width="400" />
-    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5" alt="Screenshot 2" width="400" />
-    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/32a872df-a284-4a27-b4bb-2bde1c155df2" alt="Screenshot 3" width="400" />
+    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/cdb139e2-9edb-463b-8a6c-814002b90a74" alt="Screenshot 1" width="250" />
+    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5" alt="Screenshot 2" width="250" />
+    <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/32a872df-a284-4a27-b4bb-2bde1c155df2" alt="Screenshot 3" width="250" />
 </div>
 
 
