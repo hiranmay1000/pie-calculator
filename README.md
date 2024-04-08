@@ -7,15 +7,11 @@ Creating a basic description for your new Android application in Kotlin involves
 
 Description:
 PieCalculator is a user-friendly calculator app designed for quick and efficient calculations on Android devices. Whether you need to perform basic arithmetic or complex mathematical operations, PieCalculator provides a seamless and intuitive experience.
+
 <!-- Side-by-Side Images and GIF -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <!-- First Image -->
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 35px;">
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/cdb139e2-9edb-463b-8a6c-814002b90a74" alt="Screenshot 1" width="300" />
-
-    <!-- Animated GIF -->
     <img src="https://example.com/path/to/your/animated.gif" alt="Animated GIF" width="300" />
-
-    <!-- Second Image -->
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5" alt="Screenshot 2" width="300" />
 </div>
 
