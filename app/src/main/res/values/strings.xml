@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pie calculator</string>
+    <string name="sqrt">√</string>
+    <string name="power">^</string>
+    <string name="ans">Ans</string>
+    <string name="backspace">⌫</string>
+    <string name="clear">C</string>
+    <string name="open_paren">(</string>
+    <string name="close_paren">)</string>
+    <string name="solution_0">0</string>
+    <string name="result_0">0</string>
+</resources>
