@@ -17,16 +17,6 @@ PieCalculator is a user-friendly calculator app designed for quick and efficient
 
 
 
-
-
-  ![placeholder]([https://via.placeholder.com/100x150](https://github.com/hiranmay1000/pie-calculator/assets/97354423/cdb139e2-9edb-463b-8a6c-814002b90a74))
-  ![placeholder]([https://via.placeholder.com/100x150](https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5))
-  ![placeholder]([https://via.placeholder.com/100x150](https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5))
-
-![_3KenmaD](https://github.com/hiranmay1000/pie-calculator/assets/97354423/0886b37d-e2dc-4d0d-87d6-83a1674c81ff)
-
-
-
 ## Key Features:
 
    - Simple Interface: The app features a clean and easy-to-use interface, making it accessible for users of all skill levels.
