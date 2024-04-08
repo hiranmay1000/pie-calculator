@@ -4,12 +4,17 @@ Description:
 PieCalculator is a user-friendly calculator app designed for quick and efficient calculations on Android devices. Whether you need to perform basic arithmetic or complex mathematical operations, PieCalculator provides a seamless and intuitive experience.
 
 <!-- Side-by-Side Images and GIF -->
-<div style="display: flex; justify-content: center; flex-direction: row">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+    <!-- Image 1 -->
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/cdb139e2-9edb-463b-8a6c-814002b90a74" alt="Screenshot 1" width="150"/>
+    <!-- Image 2 -->
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/51f7fc31-1cc7-48a3-a9ef-de32a20fb4e5" alt="Screenshot 2" width="150" />
+    <!-- Animated GIF -->
     <img src="https://github.com/hiranmay1000/pie-calculator/assets/97354423/8f32e8f7-212a-4e0e-944d-df33c1df2f2a" alt="Animated GIF" width="150" />
+    <!-- Description -->
     <p>This is the overview of the application</p>
 </div>
+
 
 
 
