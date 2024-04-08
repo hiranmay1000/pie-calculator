@@ -19,8 +19,8 @@ PieCalculator is a user-friendly calculator app designed for quick and efficient
 
 
 
- With CSS class installed
-  {:.text-align-center}
+* Pure inline attribute used
+  {:style="text-align:center;"}
   ![placeholder](https://via.placeholder.com/100x150)
   ![placeholder](https://via.placeholder.com/100x150)
 
