@@ -18,6 +18,15 @@ PieCalculator is a user-friendly calculator app designed for quick and efficient
 
 
 
+
+ With CSS class installed
+  {:.text-align-center}
+  ![placeholder](https://via.placeholder.com/100x150)
+  ![placeholder](https://via.placeholder.com/100x150)
+
+
+
+
 ## Key Features:
 
    - Simple Interface: The app features a clean and easy-to-use interface, making it accessible for users of all skill levels.
